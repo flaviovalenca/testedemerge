@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-arquivo 4 branchfeature
-=======
 arquivo 4 main
->>>>>>> main
