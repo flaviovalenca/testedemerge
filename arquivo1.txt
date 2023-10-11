@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 arquivo1 branchfeature
+=======
+arquivo1 main
+>>>>>>> main
